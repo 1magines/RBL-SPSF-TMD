@@ -2,7 +2,7 @@
 2 Hari Ngoprek ginian
 
 How to use :
-1. Install library yang dibutuhkan seperti :
+1. Install library yang dibutuhkan seperti :  
     a. Flask(pip install flask)  
     b. Flask_cors (pip install flask-cors)  
     c. Scipy(pip install scipy)  
@@ -15,7 +15,7 @@ How to use :
 1. REDUKSI DI FREKUENSI RENDAH ( dibawah 1.0 Hz) Cenderung memilki nilai reduksi yang sangat rendah(0-2%)
 2. REDUKSI DI FREKUENSI TINGGI (Diatas 3 Hz) Cenderung memiliki reduksi RMS tinggi(70%) dan reduksi amplitudo rendah(12-20%)
 3. REDUKSI PALING OPTIMAL BERADA DI Nilai Frekuensi Hz 1.4
-4. INI DILAKUKAN UNTUK BANGUNAN 3 TINGKAT, JIKA ANDA INGIN MENGUBAH PARAMETERNYA DAPAT DILAKUKAN HAL BERIKUT :
+4. INI DILAKUKAN UNTUK BANGUNAN 3 TINGKAT, JIKA ANDA INGIN MENGUBAH PARAMETERNYA DAPAT DILAKUKAN HAL BERIKUT :  
         a. UBAH DEF_BLDG_PROPS di app.flask.py  
         b. NUM Stories --> jumlah gedung  
         c. Masses_kg --> Tiap massa per gedungnya, paling kiri paling bawah, paling kanan paling atas  
