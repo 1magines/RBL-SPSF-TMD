@@ -1,8 +1,8 @@
 # RBL-SPSF-TMD
 2 Hari Ngoprek ginian
 
-How to use :
-0. Download semua code, ya itu ujung kanan atas tombol ijo pencet yg ada tulisan "code" pilih zip terus ekstrak.
+How to use :  
+0. Download semua code, ya itu ujung kanan atas tombol ijo pencet yg ada tulisan "code" pilih zip terus ekstrak.  
 1. Install library yang dibutuhkan seperti :  
     a. Flask(pip install flask)  
     b. Flask_cors (pip install flask-cors)  
