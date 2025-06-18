@@ -9,7 +9,7 @@ How to use :
     d. numpy(pip install numpy)  
 
 2. Run app_flask.py.(jangan diclose visual studio codenya)
-3. Buka index.html menggunakan browser.
+3. Buka index.html menggunakan browser atau buka https yang muncul di terminal visual studio code.
 
 # CATATAN
 1. REDUKSI DI FREKUENSI RENDAH ( dibawah 1.0 Hz) Cenderung memilki nilai reduksi yang sangat rendah(0-2%)
