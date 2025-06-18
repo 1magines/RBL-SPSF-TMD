@@ -1,8 +1,7 @@
 # RBL-SPSF-TMD
-2 Hari Ngoprek ginian
 
 How to use :  
-0. Download semua code, ya itu ujung kanan atas tombol ijo pencet yg ada tulisan "code" pilih zip terus ekstrak.  
+0. Download semua code, ya itu ujung kanan atas tombol ijo pencet yg ada tulisan "code" pilih zip terus ekstrak.
 1. Install library yang dibutuhkan seperti :  
     a. Flask(pip install flask)  
     b. Flask_cors (pip install flask-cors)  
@@ -25,9 +24,6 @@ How to use :
 6. DISINI KITA OPTIMASI NILAI REDUKSI AMPLITUDO DAN REDUKSI RMSNYA.
 7. YANG DIOPTIMASI ADALAH NILAI MASSA, KEKAKUAN(K), DAN REDAMAN(C) TMD.
 
-#Aspek SPSF(Kata AI sih gini)
-
-Ya, kode-kode yang diberikan telah memenuhi aspek-aspek yang diminta dengan mengimplementasikan empat dari tujuh poin utama yang disebutkan.
 
 Proyek simulasi Tuned Mass Damper (TMD) ini berhasil menggabungkan beberapa konsep fundamental dalam pemodelan dan simulasi fisis, melebihi syarat minimal tiga poin yang ditetapkan. Berikut adalah analisis pemenuhan setiap poin:
 
